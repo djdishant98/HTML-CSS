@@ -1,0 +1,44 @@
+h1{
+    font-size: 4rem;
+}
+
+p{
+    font-size: 1.5rem;
+}
+
+button{
+    font-size: 1.5rem;
+    background-color: #42855B;
+    width: 50%;;
+    height:50px;
+    border-radius: 8px;
+    border-style: none;
+    border-width: 0px;
+}
+
+.cart{
+    padding-right: 20px;
+}
+
+.price{
+    font-size: 3rem;
+}
+
+span{
+    padding-left: 30px;
+    font-size: 1.5rem;
+}
+
+.intro{
+    display: inline-block;
+}
+
+.details{
+    float:right;
+    width: 40%;
+}
+
+.main{
+    width: 50%;
+    height: 50%;
+}
